@@ -2,24 +2,66 @@
 
 ## The following key problem statements are expected to be solved by participants:
 ---
-> ### 1) Text Summarizer:
+> ### 1) Course-On-Prompt: Empowering Lifelong Learning in Low-Resource Areas
+Course-On-Prompt is a dynamic project that bridges the gap between learning goals and personalized educational content, focusing on students and Individuals in backward areas with limited data resources. Whether you’re an aspiring professional, a curious learner, or seeking continuous growth, Course-On tailors its approach to your unique needs.
 
-As of late, there has been a blast in the measure of text data from an assortment of sources. This volume of text is a priceless source of information and knowledge, which should be effectively summarized to be useful. In this problem, the main objective is to automatic text summarization from different types of text data sources.
+Visit Repository: https://github.com/ekatraone/course-on-prompt-v1_1.1
 
-**Scenario**: If an educator puts in long-form content, we would like the system to generate a summary of the text and provide a JSON output for the same. Alternatively, if there are web articles, PDFs, etc uploaded by the educator, the solution should be able to summarize the large content into bite-sized information.
+**Scenario**:
+Imagine enrolling in a course through Cop:
+
+Enrollment and Goal Setting:
+* You sign up on the platform, sharing your learning objectives.
+* These goals could be anything from mastering a new programming language to understanding quantum mechanics.
+* Course-On captures this information to create a customized learning journey.
+
+Daily Content Delivery:
+* Each day, you receive learning modules via WhatsApp and Telegram bots.
+* These modules come in various formats:
+* Text: Concise explanations, summaries, and key takeaways related to your chosen topics.
+* Audio: Narrated content for those who prefer auditory learning.
+* Images: Visual aids, infographics, and diagrams.
+* You engage with the content at your own pace, reinforcing your understanding.
+
+Completion and Recognition:
+* As you progress through the modules, you accumulate knowledge.
+* Upon completing the entire course, you receive a personalized Certificate of Appreciation.
+* This certificate acknowledges your commitment to lifelong learning.
+
+Monitoring and Progress Tracking:
+* Course-On maintains detailed records of your activities.
+* Module completion status.
+* Time spent on each topic.
+* Quiz scores .
 
 ---
 
-> ### 2) Semantic Search - Web:
+> ### 2) Ekatra Whatsapp Bot:
 
-Semantic search refers to the ability of search engines to consider the intent and contextual meaning of search phrases. Instead of trying to find exact matches for the word in the input phrase, semantic search captures broader context and relationships between words and retrieves results that are more closely related to the context of the search query.  We expect the solution to work on a predefined library, and provide contextual search output based on questions asked.
+Ekatra Whatsapp chatbot is a node.js based interactive chatbot that helps deliver course contents to students via WhatsApp on regular basis. This Chatbot offers an excellent learning experience on our preferred platform WhatsApp and allows students to learn at their own speed.
 
-**Scenario**: The educator can define web sources to which contain subject specific information. If a student wants to learn a specific topic from the subject, the search should return a set of results which are a mixture of text, audio/video and images for the topic. 
+Visit Repository: https://github.com/ekatraone/Ekatra-WhatsApp-Bot
+
+**Scenario**: 
+* Students can choose topic to learn on the whatsapp bot.
+* Every day, the Chatbot give access to new course modules by sending a reminder template message to students.
+* Students can complete daywise modules per topic without being overwhelmed by course syllabus.
+* Students get audio, textual pdf and video course everything inside the same chatbot.
 
 ---
 
-> ### 3) Semantic Search – Document: 
+> ### 3) Ask Catalyst Chatbot: 
 
-Semantic search seeks to improve search accuracy by understanding the content of the search query. In contrast to traditional search engines, which only find documents based on lexical matches, semantic search can also find synonyms. The idea behind semantic search is to embed all entries in your corpus, which can be sentences, paragraphs, or documents, into a vector space. At search time, the query is embedded into the same vector space and the closest embedding from your corpus are found. These entries should have a high semantic overlap with the query. 
+Visit Repository: https://github.com/ekatraone/askcatalyst
 
-**Scenario**: An educator can create a library from documents, websites and articles which become the data source.  If a student asks a question to the chatbot, the tool should provide the best possible answer with an accuracy % along with it.  
+**Scenario**: 
+* 
+
+---
+
+> ### 4) Ask YC Combinator Chatbot: 
+
+Visit Repository: https://github.com/ekatraone/ask_yc_combinator
+
+**Scenario**: 
+* 
