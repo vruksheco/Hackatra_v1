@@ -53,9 +53,12 @@ Visit Repository: https://github.com/ekatraone/Ekatra-WhatsApp-Bot
 > ### 3) Ask Catalyst Chatbot: 
 
 Visit Repository: https://github.com/ekatraone/askcatalyst
+Visit Bot: https://api.whatsapp.com/send/?phone=19809982030&text=AskCatalyst&type=phone_number&app_absent=0
 
 **Scenario**: 
-* 
+* User visits the bot, and is welcome with message "Hello! How can I assist you today within the realm of Catalyst2030?"
+* User can now ask different queries regarding Catalyst2030.
+* For example, questions like what it does or how you can help or participate in it can be asked to chatbot.
 
 ---
 
@@ -64,4 +67,7 @@ Visit Repository: https://github.com/ekatraone/askcatalyst
 Visit Repository: https://github.com/ekatraone/ask_yc_combinator
 
 **Scenario**: 
+* User visits the bot, and is welcome with message "Hello! How can I assist you today within the realm of YC Combinator?"
+* User can now ask different queries regarding YC Combinator.
+* For example, questions like what it does or how you can help or participate in it can be asked to chatbot.
 * 
