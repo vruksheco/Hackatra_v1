@@ -70,4 +70,3 @@ Visit Repository: https://github.com/ekatraone/ask_yc_combinator
 * User visits the bot, and is welcome with message "Hello! How can I assist you today within the realm of YC Combinator?"
 * User can now ask different queries regarding YC Combinator.
 * For example, questions like what it does or how you can help or participate in it can be asked to chatbot.
-* 
