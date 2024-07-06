@@ -52,11 +52,11 @@ Create a script to transcribe videos from a specified YouTube channel, enhancing
 - *Quality Assurance*: Integrate validation checks for transcript accuracy and alignment with video content for enhanced usability.
 - *Automation*: Explore automation tools for scheduled updates and new video processing to maintain content relevance.
 ---
-### Project 3: Local LLV UI with Authentication and Weekly Email Report
+### Project 3: Local LLM UI with Authentication and Weekly Email Report
 *Objective*:
 Develop a secure local UI with authentication features and automated email reporting for enhanced user interaction and data management.
 
-*Repository*: https://github.com/ekatraone/local_ui_with_authentication
+*Repository*: https://github.com/ekatraone/local_llm_ui_with_authentication
 
 *Steps*:
 1. *UI Development*:
